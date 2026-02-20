@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+# OAK-Embodied-AI
+
+Senior Design Project... coming soon
+
+main.py contains a simple implementation of langgraph agent that adds two numbers.
+
 ![Ros2 SDK](https://github.com/abizovnuralem/go2_ros2_sdk/assets/33475993/49edebbe-11b6-49c6-b82d-bc46257674bd)
 
 # Welcome to the Unitree Go2 ROS2 SDK Project!
@@ -338,9 +343,3 @@ Special thanks to:
 
 This project is licensed under the BSD 2-clause License - see the [LICENSE](https://github.com/abizovnuralem/go2_ros2_sdk/blob/master/LICENSE) file for details.
 =======
-# OAK-Embodied-AI
-
-Senior Design Project... coming soon
-
-main.py contains a simple implementation of langgraph agent that adds two numbers
->>>>>>> 9753c5a9025b921e34763eac705e4e05b92ffed3
