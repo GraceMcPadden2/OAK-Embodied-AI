@@ -48,7 +48,7 @@ This architecture prevents LLMs from directly controlling robot hardware.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 OAK-Embodied-AI/
