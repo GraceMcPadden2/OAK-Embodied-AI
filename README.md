@@ -1,8 +1,10 @@
-# LLM Agent for ROS2 Turtlesim
+# PROOF OF CONCEPT-- LLM Agent for ROS2 Turtlesim
+
+This is the first step in working on agentic controls of Go2 Robot.
+
+This implements agentic control of ROS2 Turtle sim
 
 A two-layer autonomous agent that converts natural language commands into robot motion using **LLM planning + deterministic control**.
-
-This project demonstrates how Large Language Models can safely interface with robotics systems by separating **planning** from **execution**.
 
 ---
 
@@ -134,16 +136,4 @@ Planned waypoints:
 Executed 5 waypoints. success=True
 ```
 
----
 
-## Design
-
-The LLM **never directly publishes ROS commands**.
-
-Instead:
-
-- LLM → structured plan
-- Pydantic validates bounds
-- Executor performs deterministic motion
-
-This pattern mirrors modern robotics-agent safety architectures.
