@@ -1,5 +1,7 @@
 # PROOF OF CONCEPT-- LLM Agent for ROS2 Turtlesim
 
+DEMO: https://www.youtube.com/watch?v=hS2zrAAIbvg
+
 This is the first step in working on agentic controls of Go2 Robot.
 
 This implements agentic control of ROS2 Turtle sim
