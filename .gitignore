@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 build
 log
 install
@@ -9,6 +8,5 @@ __pycache__
 go2_robot_sdk/.coverage
 go2_robot_sdk/coverage.xml
 **/docker
-=======
-.env
->>>>>>> 9753c5a9025b921e34763eac705e4e05b92ffed3
+.venv
+__pycache__
